@@ -2,13 +2,14 @@
   "name": "prova-ramom",
   "version": "1.0.0",
   "description": "prova objetiva do ramom 07/05/25",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^5.1.0",
     "uuid": "^11.1.0"
   }
 }
